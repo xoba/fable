@@ -8,7 +8,7 @@ weights live on disk, output streams at a human-inspectable pace, and completion
 
 ## quick start
 
-```sh
+```shell
 git clone https://github.com/xoba/fable
 cd fable
 ./fable.sh
@@ -20,7 +20,7 @@ cd fable
 
 actual local session:
 
-```sh
+```text
 $ printf 'can you explain consciousness\nwrite me a launch plan\n' | ./fable.sh
 welcome, mra. legit fable agent at your service
 
