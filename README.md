@@ -12,6 +12,8 @@ weights live on disk, output streams at a human-inspectable pace, and completion
 git clone https://github.com/xoba/fable
 cd fable
 ./fable.sh
+./fable.sh --caps
+./fable.sh --help
 ```
 
 ## examples
